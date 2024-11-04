@@ -1,3 +1,5 @@
 
 # NodeJs Dependecies
 node_modules/
+
+.env
